@@ -5,7 +5,7 @@ import discord
 os.system('pip install -U discord==1.7.3')
 os.system('pip install -U discord.py==1.7.3')
 
-token = "NDMwNTA1OTg5NTk5NTI2OTMx.GDIfSq.BjsFYA0UV1Yb0kuhuvgnMGdFT30zHF-wAlye1M" #TokenIdYour
+token = "NDMwNTA1OTg5NTk5NTI2OTMx.GfkKv2.wSWto4VPdZISHuUP4p9GmjzRrYLf6BScos4Oos" #TokenIdYour
 replyMessage = 'Have A good Day Mate, wait for next announce of Mind Network'
 channelId = 1052489674914025522 #channeild
 delay = 15
